@@ -1,0 +1,30 @@
+body{
+	
+	padding-top: 70px;
+	font-family: 'Khula', sans-serif;
+	background-color: 'grey';
+	font-size: 18px;
+	
+	
+}
+
+.logo{
+
+	padding-left: 0px;
+}
+
+.row{
+	margin-top:10px;
+	padding-top:10px;
+	padding-bottom: 10px;
+}
+
+.feature{
+	padding-left: 90px;
+	font-size: 48px;
+}
+
+.hr{
+	border-top-width: 4px;
+  border-top-style: solid;
+  border-top-color: grey;
